@@ -35,6 +35,7 @@ In the 40+ hours a week I spend at my Mac, I wear many hats (web developer, cont
   - [Alfred](#alfred)
   - [Contexts](#contexts)
   - [Paletro](#paletro)
+  - [Pictogram](#pictogram)
 - [Menu Bar](#menu-bar)
   - [Bartender](#bartender)
   - [Rectangle](#rectangle)
@@ -114,6 +115,14 @@ Basically the MacOS app switcher on steroids, Contexts makes it fast and easy to
 💰
 
 I've got used to the command palette in Visual Studio Code and Nova, so when I found this app I had to get it. Paletro is a command palette for everything else on your system. I use it all the time when I can't remember a particular keyboard shortcut, or don't want to click through menus.
+
+### Pictogram
+
+[Website](https://pictogramapp.com)
+
+🎁
+
+I like using custom icons for a lot of my apps (from [macOSicons](https://macosicons.com)), but it's a pain having to re-apply custom icons anytime apps update. Pictogram will apply custom icons to _almost_ any app you specify (built-in apps, and downloads from the Mac App Store unfortunately do not apply).
 
 ## Menu Bar
 
