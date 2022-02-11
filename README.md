@@ -28,6 +28,7 @@ In the 40+ hours a week I spend at my Mac, I wear many hats (web developer, cont
   - [iTerm](#iterm)
   - [BBEdit](#bbedit)
 - [Productivity](#productivity)
+  - [Craft](#craft)
   - [Notion](#notion)
   - [Fantastical](#fantastical)
   - [Soulver](#soulver)
@@ -70,13 +71,21 @@ While Nova is my primary text editor when I'm working on projects, I use BBEdit 
 
 ## Productivity
 
+### Craft
+
+[Website](https://www.craft.do)
+
+🎁/💰
+
+Craft has allowed me to replace Apple Notes, Byword, and 99% of Notion with a single app. It won me over with its powerful search, simple document linking (you can even link to specific sections of a document), and Mac-native experience.
+
 ### Notion
 
 [Website](https://www.notion.so)
 
 🎁/💰
 
-Notion is my all-in-one organizational tool. I started using its Kanban board functionality to organize and track my weekly tasks, but my usage has expanded far beyond that. I use it for recipes, budget tracking, saving positive feedback and affirmations, and so much more.
+Though I've moved most of my data into [Craft](#craft), Notion still offers my favorite kanban board experience.
 
 ### Fantastical
 
@@ -84,11 +93,15 @@ Notion is my all-in-one organizational tool. I started using its Kanban board fu
 
 💰
 
+Natural language interpretation? Check. Zoom integration? Check. Menu bar icon? Check. While the built-in Calendar app would probably be enough for my needs, I love the little extra benefits offered in Fantastical.
+
 ### Soulver
 
 [Website](https://soulver.app)
 
 💰
+
+My go-to whenever I need to do any kind of math. A sa visual thinker,my brain likes seeing the math formula written out, rather than just being shown the answer. Even for very simple math problems (though for very quick math problems I use [Alfred](#alfred)).
 
 ## Utilities
 
